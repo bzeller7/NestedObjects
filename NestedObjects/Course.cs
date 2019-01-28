@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace NestedObjects
 {
-    class Class
+    class Course
     {
         public string Title { get; set; }
 
